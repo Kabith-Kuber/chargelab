@@ -6,6 +6,8 @@ ChargeLab is a browser-based EV charging and battery-reliability simulator. It i
 
 Open `index.html` in a browser. No installation, API key, vehicle connection, or real telemetry is used.
 
+Run the simulation checks with `node test.js`.
+
 ## Safety and scope
 
 - All telemetry and outcomes are synthetic.
